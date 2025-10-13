@@ -39,44 +39,7 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
         Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
