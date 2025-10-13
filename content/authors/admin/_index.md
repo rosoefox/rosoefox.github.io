@@ -10,7 +10,7 @@ first_name: 가현
 last_name: 김
 
 # Pronouns (optional)
-pronouns: 여성
+pronouns: 여성 / 2004
 
 # Status emoji
 status:
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: AI 축산기술 연구자
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: 전북대학교 동물생명공학과
+    url: https://animalbio.jbnu.ac.kr/animalbio/5658/subview.do
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,8 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:alex.johnson@meta.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
@@ -48,10 +46,10 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - 축사 AI 자기관리 시스템
+  - 종축 유전능력 관리 프로그램 개발
+  - 교배주기 관리 시스템 
+  - 무엇으로 할까
 
 education:
   - area: PhD Computer Science (AI Focus)
