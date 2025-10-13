@@ -51,63 +51,63 @@ education:
     institution: 전북대학교
 
 
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#work:
+  #- position: Senior AI Research Scientist
+    #company_name: Meta AI
+    #company_url: 'https://ai.meta.com/'
+    #company_logo: ''
+    #date_start: 2020-01-01
+    #date_end: ''
+    #summary: |2-
+      #Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+  #- position: AI Research Intern
+    #company_name: OpenAI
+    #company_url: 'https://openai.com/'
+    #company_logo: ''
+    #date_start: 2019-06-01
+    #date_end: 2019-12-31
+    #summary: |
+      #Worked on GPT-3 scaling. Co-authored paper on #prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 기술적 능력
     items:
-      - name: Python & PyTorch
+      - name: 파이썬 & 자바스크립트
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: 선형대수학
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: 유전공학
         description: ''
         percent: 85
-        icon: cloud
-  - name: Hobbies
+        icon: gene
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: 달리기 (유산소 운동)
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: 롤 (골드)
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: 롤토체스 (마스터)
         description: ''
         percent: 70
         icon: book-open
 
 languages:
-  - name: English
+  - name: 한국어
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: 영어
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
