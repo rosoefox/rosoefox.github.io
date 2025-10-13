@@ -17,16 +17,18 @@ en:
   languageCode: en-US
   languageName: "English"
   contentDir: content/en
-  title: English Website by rosoefox
+  title: KimGahyeon Portfolio
   weight: 2
   params:
-    description: Site description in English
+    description: English ver
   menu:
     main:
-      - name: 영어소개
-        url: '#about'
+      - name: Bio
+        url: 'rosoefox.github.io'
         weight: 1
-      - name : 경험티비
+      - name : Experience
         url: 'experience/'
         weight: 2
+      - name : Projects
+        url: 'projects/'
 
