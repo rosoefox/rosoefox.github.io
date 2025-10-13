@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Kim GaHyeon
+title: 김가현
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: 가현
+last_name: 김
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 여성
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🌱
 
 # Is this the primary user of the site?
 superuser: true
