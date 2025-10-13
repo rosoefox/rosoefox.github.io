@@ -54,6 +54,8 @@ locale:
 
 # Site features
 features:
+  params:
+    showLanguageSelector: true
   math:
     enable: false
   privacy_pack:
