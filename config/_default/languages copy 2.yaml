@@ -1,0 +1,34 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+ko:
+  languageCode: ko-KR
+  languageName: "한국어"
+  contentDir: content/ko
+  weight: 1
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  #contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+#en:
+en:
+  languageCode: en-US
+  languageName: "English"
+  contentDir: content/en
+  title: KimGahyeon Portfolio
+  weight: 2
+  params:
+    description: English ver
+  menu:
+    main:
+      - name: Bio
+        url: 'rosoefox.github.io'
+        weight: 1
+      - name : Experience
+        url: 'experience/'
+        weight: 2
+      - name : Projects
+        url: 'projects/'
+
