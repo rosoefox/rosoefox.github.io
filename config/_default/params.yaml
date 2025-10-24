@@ -59,3 +59,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# 사이트 검색 사용
+header:
+  navbar:
+    enable : true
+    show_search : true
