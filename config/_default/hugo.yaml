@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name 웹사이트의 제목
-title: 김가현 포트폴리오
+title: 전북대 김가현 포트폴리오
 # Website URL
 baseURL: 'https://www.KghPortfolio/' #도메인 못 삼
 
