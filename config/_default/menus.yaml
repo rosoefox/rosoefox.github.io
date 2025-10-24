@@ -13,6 +13,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name : rakan
-    url: rakan/
+  - name : zayah
+    url: zayah/
     weight: 50
