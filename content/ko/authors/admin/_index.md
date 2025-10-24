@@ -85,7 +85,7 @@ skills:
       - name: 유전공학
         description: ''
         percent: 85
-        icon: gene
+        icon: plant
   - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
