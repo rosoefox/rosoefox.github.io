@@ -31,6 +31,6 @@ en:
         weight: 2
       - name : Projects
         url: 'projects/'
-      - name : zayah
-        url : 'zayah/'
+      - name : contact
+        url : 'contact/'
 
