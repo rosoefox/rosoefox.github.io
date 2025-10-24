@@ -1,3 +1,5 @@
-<link rel="icon" type="image/png" href="/images/icon.png">
+{{ $cache_buster := now.Unix }} 
 
-<link rel="apple-touch-icon" href="/images/icon.png">
+<link rel="icon" type="image/png" href="/images/icon.png?v={{ $cache_buster }}">
+
+<link rel="apple-touch-icon" href="/images/icon.png?v={{ $cache_buster }}">
