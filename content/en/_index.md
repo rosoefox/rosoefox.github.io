@@ -12,11 +12,11 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: admin #이거 나중에 바꾸기!
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: 이력서 다운로드
         url: uploads/resume.pdf
       headings:
         about: ''
