@@ -6,7 +6,7 @@
 # Website name 웹사이트의 제목
 title: 김가현 포트폴리오
 # Website URL
-baseURL: 'https://rosoefox.github.io/'
+baseURL: 'https://www.KghPortfolio/' #도메인 못 삼
 
 ############################
 ## LANGUAGE
