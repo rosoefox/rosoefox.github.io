@@ -81,7 +81,7 @@ skills:
       - name: 선형대수학
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
       - name: 유전공학
         description: ''
         percent: 85
