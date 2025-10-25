@@ -8,6 +8,7 @@ ko:
   languageName: "한국어"
   contentDir: content/ko
   weight: 1
+
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -35,7 +36,7 @@ en:
       - name : contact
         url : 'contact/'
         weight : 4
-      - name : GameWithMe
-        url: 'GameWithMe/'
+      - name : game
+        url: 'game/'
         weight: 5
 
