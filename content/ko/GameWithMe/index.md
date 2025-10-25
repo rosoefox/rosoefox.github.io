@@ -1,5 +1,5 @@
 ---
-title: contact
+title: GameWithMe
 date: 
 type: landing
 
