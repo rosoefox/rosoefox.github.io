@@ -1,6 +1,6 @@
 ---
 title: BLUP를 이용한 육종시스템
-date: 2025-03-01
+date: 2024-09-15
 links:
   - type: 관련 전공
     url: https://animalbio.jbnu.ac.kr/animalbio/index.do

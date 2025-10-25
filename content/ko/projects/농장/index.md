@@ -1,6 +1,6 @@
 ---
 title: 스마트 농장 시스템 
-date: 2024-09-01
+date: 2025-03-01
 links:
   - type: 관련 전공
     url: https://animalbio.jbnu.ac.kr/animalbio/index.do
