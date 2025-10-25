@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 아래 League of Legends 계정으로 친구추가 후 메세지 보내주세요!
+      title: Please add a friend to the League of Legends account below and send me a message!
       text: 포롱도토리 acorn
       
       filters:
