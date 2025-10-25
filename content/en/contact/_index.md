@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 관심 있으시면 아래로 연락주시면 감사하겠습니다.
+      title: If you're interested, please contact me below.
       text: +82 010-8968-2214 / kgh_olivia@naver.com
       
       filters:
