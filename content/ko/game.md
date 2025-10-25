@@ -1,5 +1,5 @@
 ---
-title: GameWithMe
+title: game
 date: 
 type: landing
 
@@ -16,7 +16,7 @@ sections:
       
       filters:
         folders:
-          - GameWithMe
+          - game
     design:
       view: article-grid
       fill_image: false
