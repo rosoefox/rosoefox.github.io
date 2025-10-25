@@ -31,6 +31,11 @@ en:
         weight: 2
       - name : Projects
         url: 'projects/'
+        weight : 3
       - name : contact
         url : 'contact/'
+        weight : 4
+      - name : GameWithMe
+        url: 'GameWithMe/'
+        weight: 5
 
