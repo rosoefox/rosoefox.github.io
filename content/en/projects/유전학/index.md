@@ -1,18 +1,18 @@
 ---
-title: BLUP를 이용한 육종시스템
+title: Breeding system using BLUP
 date: 2024-09-15
 links:
-  - type: 관련 전공
+  - type: related major
     url: https://animalbio.jbnu.ac.kr/animalbio/index.do
 tags:
   - BLUP
-  - 유전학
-  - 육종
+  - Genetics
+  - breeding
 ---
 
-BLUP를 이용한 육종 시스템을 연구하고 있습니다.
-육종이란 유전적 성질을 이용하여 새로운 품종을 만들어 내거나 기존 품종을 개량하는 것입니다.
-돼지, 소, 닭 등의 가축의 품종을 더욱 효율적으로 개량하기 위해 BLUP을 활용한 연구 프로그램을 제작하고 있습니다.
-전통적인 육종학의 한계를 극복하고 더 좋은 유전자를 효과적으로 이용할 수 있게 해줍니다.
+I am currently researching breeding systems using BLUP (Best Linear Unbiased Prediction).
+Breeding is the process of creating new varieties or improving existing ones by utilizing their genetic traits.
+I am developing research programs that apply BLUP to more efficiently improve the breeds of livestock such as pigs, cattle, and poultry.
+This work helps overcome the limitations of traditional breeding methods, allowing for the effective utilization of superior genetics.
 
 <!--more-->
