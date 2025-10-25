@@ -16,6 +16,6 @@ main:
   - name : contact
     url: contact/
     weight: 40
-  - name : GameWithMe
-    url: GameWithMe/
+  - name : game
+    url: game/
     weight: 50
