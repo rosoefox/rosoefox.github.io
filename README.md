@@ -1,1 +1,1 @@
-Hello 김가현 Potfolio
+Hello 김가현 Portfolio
