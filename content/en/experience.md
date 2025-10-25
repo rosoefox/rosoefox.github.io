@@ -20,13 +20,13 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: 기술적 능력 & 취미
+      title: skills & hobbies
       username: admin
     design:
       show_skill_percentage: false
 
   - block: resume-languages
     content:
-      title : 언어
+      title : language
       username: admin
 ---
