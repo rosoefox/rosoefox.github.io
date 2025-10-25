@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 김가현
+title: Kim GaHyeon
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: 가현
-last_name: 김
+first_name: GaHyeon
+last_name: Kim
 
 # Pronouns (optional)
-pronouns: 여성 / 2004
+pronouns: Female / 2004
 
 # Status emoji
 status:
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI 축산기술 연구자
+role: Researcher in AI-driven Animal Husbandry
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 전북대학교 동물생명공학과
+  - name: JBNU Department of Animal Biotechnology
     url: https://animalbio.jbnu.ac.kr/animalbio/5658/subview.do
 
 # Social network links
@@ -38,17 +38,17 @@ profiles:
 
  
 interests:
-  - 축사 AI 자기관리 시스템
-  - 종축 유전능력 관리 프로그램 개발
-  - 교배주기 관리 시스템 
-  - League of Legends 밴픽 매칭 시스템 
+  - AI-driven Smart Barn Management System
+  - Genetic Trait Management Program Development for Breeding Stock
+  - Breeding Cycle Management System
+  - League of Legends (LoL) Pick/Ban & Matchmaking System
 
 education:
-  - area: 동물생명공학과 (유전공학)
-    institution: 전북대학교
+  - area: Animal Biotechnology (Genetic Engineering)
+    institution: Jeonbuk National University
 
-  - area: 컴퓨터인공지능학부 (인공지능)
-    institution: 전북대학교
+  - area: Computer Science & Artificial Intelligence
+    institution: Jeonbuk National University
 
 
 #work:
@@ -72,47 +72,47 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 기술적 능력
+  - name: skills
     items:
-      - name: 파이썬 & 자바스크립트
+      - name: Python & JavaScript
         description: ''
         percent: 95
         icon: code-bracket
-      - name: 선형대수학
+      - name: linear algenra
         description: ''
         percent: 100
         icon: code-bracket
-      - name: 유전공학
+      - name: genetic engineering
         description: ''
         percent: 85
         icon: plant
-  - name: 취미
+  - name: hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 달리기 (유산소 운동)
+      - name: Run
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: 롤 (골드)
+      - name: League of Legends (Gold)
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: 롤토체스 (마스터)
+      - name: TeamFightTactics (Master)
         description: ''
         percent: 70
         icon: book-open
 
 languages:
-  - name: 한국어
+  - name: Korean
     percent: 100
-  - name: 영어
+  - name: English
     percent: 70
 
 ---
 
-김가현, AI 축산기술 연구자입니다.
-전북대학교 동물물생명공학과, 컴퓨터인공지능학부 복수전공 중인 주니어 개발자입니다.
-AI를 사용한 스마트 축산 시스템, 동물 육종 프로그램을 개발하고 있습니다.
-또한 League of Legends에 깊은 흥미를 갖고 있으며 최근 중요해진 밴픽과 매칭시스템에 대한 프로그램도 제작하고 있습니다.
-빠른 기술 습득과 성장 의지가 강점으로 미래가 기대되는 개발자입니다.
+Kim Gahyun, a researcher in AI livestock technology.
+I am a junior developer majoring in the Department of Animal and Biotechnology and Computer Artificial Intelligence at Chonbuk National University.
+We are developing a smart livestock system and animal breeding program using AI.
+We are also deeply interested in League of Legends and are producing programs on Banpick and matching systems, which have recently become important.
+It is a developer who is expected to be in the future with its strength in rapid skill acquisition and willingness to grow.
