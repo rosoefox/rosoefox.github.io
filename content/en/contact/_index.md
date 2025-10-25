@@ -1,6 +1,6 @@
 ---
-title: '프로젝트'
-date: 2024-05-19
+title: contact
+date: 
 type: landing
 
 design:
@@ -11,12 +11,12 @@ design:
 sections:
   - block: collection
     content:
-      title: 김가현의 프로젝트
-      text: 동물생명공학과와 컴퓨터인공지능학부의 전공을 활용한 프로젝트를 주로 하고 있습니다.League of Legends를 주로 즐겨하며 더 편한 게임을 위한 앱도 개발합니다.
+      title: 관심 있으시면 아래로 연락주시면 감사하겠습니다.
+      text: +82 010-8968-2214 / kgh_olivia@naver.com
       
       filters:
         folders:
-          - projects
+          - contact
     design:
       view: article-grid
       fill_image: false

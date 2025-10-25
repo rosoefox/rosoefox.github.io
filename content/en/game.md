@@ -1,6 +1,6 @@
 ---
-title: '프로젝트'
-date: 2024-05-19
+title: game
+date: 
 type: landing
 
 design:
@@ -11,12 +11,12 @@ design:
 sections:
   - block: collection
     content:
-      title: 김가현의 프로젝트
-      text: 동물생명공학과와 컴퓨터인공지능학부의 전공을 활용한 프로젝트를 주로 하고 있습니다.League of Legends를 주로 즐겨하며 더 편한 게임을 위한 앱도 개발합니다.
+      title: 아래 League of Legends 계정으로 친구추가 후 메세지 보내주세요!
+      text: 포롱도토리 acorn
       
       filters:
         folders:
-          - projects
+          - game
     design:
       view: article-grid
       fill_image: false
