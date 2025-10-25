@@ -1,6 +1,6 @@
 ---
 title: AI를 이용한 LoL 밴픽 추천 프로그램
-date: 2025-10-11
+date: 2024-03-11
 links:
   - type: 관련 전공
     url: https://cs.jbnu.ac.kr/csai/index.do
