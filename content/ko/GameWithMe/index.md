@@ -16,7 +16,7 @@ sections:
       
       filters:
         folders:
-          - contact
+          - GameWithMe
     design:
       view: article-grid
       fill_image: false
